@@ -5,6 +5,8 @@
 
 ## Локальное разворачивание
 
+Нужна локальная бд (mysql, postgres), с названием uniteller (user: root, password: root).
+
 - `php artisan migrate`
 - `php artisan serve`
 - `npm run dev`
